@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Reused SE Datasets</title>
+<meta name="description" content="Browse the 313 datasets reused by empirical software engineering papers published 2021–2025 in ten top-tier venues.">
+<script>
+  // Apply a saved theme before the page paints.
+  try { var t = localStorage.getItem("theme"); if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t); } catch (e) {}
+</script>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="wrap">
+    <div class="topbar">
+      <p class="eyebrow">Companion site · Empirical software engineering, 2021–2025</p>
+      <button type="button" id="theme" class="btn theme" aria-label="Switch to dark theme">Dark theme</button>
+    </div>
+    <h1>Reused datasets in empirical SE research</h1>
+    <p class="lede">The datasets that empirical studies in ten software engineering venues
+      (ASE, FSE, ICSE, ICSME, MSR, SANER, EMSE, JSS, TOSEM, TSE) reused instead of, or in addition to,
+      collecting their own data. Each dataset lists the papers that reuse it.</p>
+    <p class="links">
+      <a class="btn primary zenodo-link" href="#" target="_blank" rel="noopener">Full results of the paper on Zenodo</a>
+      <a class="btn" href="data/reused_datasets.csv" download>Download the dataset list (CSV)</a>
+    </p>
+    <dl class="tiles" id="tiles"></dl>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="panel" aria-labelledby="years-h">
+    <div class="panel-head">
+      <h2 id="years-h">When were the reused datasets published?</h2>
+      <p class="hint">Click a bar to show only the datasets from that period. Click it again to clear.</p>
+    </div>
+    <div id="years" class="years" role="group" aria-label="Datasets by publication period"></div>
+  </section>
+
+  <section class="panel" aria-labelledby="list-h">
+    <div class="panel-head">
+      <h2 id="list-h">Datasets</h2>
+      <p class="hint">Search by dataset name, alternative name, or reference. Click a row to see the reusing papers.</p>
+    </div>
+
+    <form class="controls" id="controls" onsubmit="return false">
+      <label class="search">
+        <span class="sr">Search</span>
+        <input id="q" type="search" placeholder="Search datasets, e.g. Defects4J, HumanEval, vulnerability" autocomplete="off">
+      </label>
+      <label><span>Topic</span><select id="f-topic"><option value="">All topics</option></select></label>
+      <label><span>Venue</span><select id="f-venue"><option value="">All venues</option></select></label>
+      <label><span>Paper year</span><select id="f-pyear"><option value="">2021–2025</option></select></label>
+      <label><span>Source type</span><select id="f-src"><option value="">All</option></select></label>
+      <label><span>Reused by</span>
+        <select id="f-min">
+          <option value="1">1+ papers</option>
+          <option value="2">2+ papers</option>
+          <option value="4">4+ papers</option>
+        </select>
+      </label>
+      <label><span>Sort</span>
+        <select id="sort">
+          <option value="papers">Most reused</option>
+          <option value="name">Name (A–Z)</option>
+          <option value="new">Newest first</option>
+          <option value="old">Oldest first</option>
+        </select>
+      </label>
+      <label><span>Show</span>
+        <select id="f-page">
+          <option value="25">25 rows</option>
+          <option value="50" selected>50 rows</option>
+          <option value="100">100 rows</option>
+          <option value="all">All rows</option>
+        </select>
+      </label>
+      <button type="button" id="reset" class="btn">Reset</button>
+    </form>
+
+    <details class="glossary">
+      <summary>What do these fields mean?</summary>
+      <dl>
+        <dt>Search</dt>
+        <dd>Finds datasets whose name, other names used in the papers, first author, or cited reference contain all the words you type.</dd>
+        <dt>Topic</dt>
+        <dd>The research topic of the reusing paper: an ACM CCS 2012 level-2 concept under <em>Software and its engineering</em>. Shows datasets reused by at least one paper on that topic.</dd>
+        <dt>Venue</dt>
+        <dd>The conference or journal where the reusing paper was published.</dd>
+        <dt>Paper year</dt>
+        <dd>The publication year of the reusing paper (the journal volume or conference edition), not the year of the dataset.</dd>
+        <dt>Source type</dt>
+        <dd>Where the reusing paper's data come from. <em>Existing dataset</em>: the paper uses only datasets built by earlier work. <em>Hybrid</em>: the paper combines existing datasets with data it collects itself.</dd>
+        <dt>Reused by</dt>
+        <dd>The minimum number of papers that reuse the dataset, counted after the other filters are applied.</dd>
+        <dt>Year (column)</dt>
+        <dd>The publication year of the dataset as cited by the reusing papers. A dash means the year could not be determined.</dd>
+        <dt>Papers (column)</dt>
+        <dd>The number of papers that reuse the dataset. With filters on, it shows matching papers / all papers.</dd>
+      </dl>
+    </details>
+
+    <p class="status" id="status" aria-live="polite"></p>
+
+    <div class="table-wrap">
+      <table class="list">
+        <thead>
+          <tr>
+            <th scope="col">Dataset</th>
+            <th scope="col" class="num">Year</th>
+            <th scope="col" class="num">Papers</th>
+            <th scope="col" class="hide-sm">Topics of reusing papers</th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+    <button type="button" id="more" class="btn more" hidden>Show more</button>
+  </section>
+
+  <section class="panel notes" aria-labelledby="notes-h">
+    <h2 id="notes-h">About the data</h2>
+    <ul>
+      <li>A <em>use</em> is one paper reusing one dataset. The 184 papers that reuse data make 426 uses of 313 distinct datasets.</li>
+      <li><em>Year</em> is the publication year of the dataset as cited by the reusing papers. Twelve datasets have no year that could be determined.</li>
+      <li><em>Topics</em> are the ACM CCS 2012 level-2 concepts under <em>Software and its engineering</em> assigned to the reusing papers.</li>
+      <li><em>Own dataset</em> marks a paper whose first author is also the first author of the dataset.</li>
+      <li>Dataset names are those used in this study; the names used in the papers are listed under <em>Also called</em>.</li>
+    </ul>
+    <p class="downloads">Download:
+      <a href="data/reused_datasets.csv" download>reused_datasets.csv</a> (one row per dataset) ·
+      <a href="data/dataset_uses.csv" download>dataset_uses.csv</a> (one row per use)
+    </p>
+    <p class="downloads">The full results of the paper, including all 391 papers, their labels with supporting quotes, and the classification prompt, are on
+      <a class="zenodo-link" href="#" target="_blank" rel="noopener">Zenodo</a>.</p>
+  </section>
+</main>
+
+<footer class="wrap foot">
+  <p>Dataset metadata were extracted from the papers' full texts and checked against their published versions.
+    Paper titles link to the publishers' pages through their DOIs.</p>
+</footer>
+
+<script>
+  // Site settings. Concept DOI of the Zenodo record: it always resolves to the latest version.
+  window.SITE = { zenodoUrl: "https://doi.org/10.5281/zenodo.24155721" };
+</script>
+<script src="data/datasets.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>

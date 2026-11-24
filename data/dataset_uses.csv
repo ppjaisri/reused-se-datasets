@@ -1,0 +1,427 @@
+paper,dataset,name_in_paper,owner,venue,year,source_type,analysis_type,topic_level1,topic_level2
+2,the dataset.xlsx spreadsheet where CoCo measures and understandability evaluations were recorded,the dataset.xlsx spreadsheet where CoCo measures and understandability evaluations were recorded,different authors,JSS,2023,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+6,Canterbury,Canterbury,different authors,JSS,2023,Hybrid,Quantitative,Software organization and properties,Extra-functional properties
+6,ImageNet,ImageNet,different authors,JSS,2023,Hybrid,Quantitative,Software organization and properties,Extra-functional properties
+6,PolyBench v3.1,PolyBench v3.1,different authors,JSS,2023,Hybrid,Quantitative,Software organization and properties,Extra-functional properties
+6,Silesia,Silesia,different authors,JSS,2023,Hybrid,Quantitative,Software organization and properties,Extra-functional properties
+6,the 2018 SAT competition's benchmark,the 2018 SAT competition's benchmark,different authors,JSS,2023,Hybrid,Quantitative,Software organization and properties,Extra-functional properties
+6,the survey of Pereira et al. (2021),the survey of Pereira et al. (2021),different authors,JSS,2023,Hybrid,Quantitative,Software organization and properties,Extra-functional properties
+6,the Trent Nelson's PDF Collection,the Trent Nelson's PDF Collection,different authors,JSS,2023,Hybrid,Quantitative,Software organization and properties,Extra-functional properties
+6,the YouTube User General Content dataset,the YouTube User General Content dataset,different authors,JSS,2023,Hybrid,Quantitative,Software organization and properties,Extra-functional properties
+6,TPC-H,TPC-H,different authors,JSS,2023,Hybrid,Quantitative,Software organization and properties,Extra-functional properties
+7,"a curated GitHub list of microservice-based systems (Rahman et al., 2019)","a curated GitHub list of microservice-based systems (Rahman et al., 2019)",different authors,JSS,2023,Hybrid,Both,Software creation and management,Software post-development issues
+8,"We reused the measurements from 8 configurable systems and their inputs, as they are introduced in Lesoil et al. (2023)","We reused the measurements from 8 configurable systems and their inputs, as they are introduced in Lesoil et al. (2023)",same authors,JSS,2024,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+10,EdgeIIoT,the IoT and IIoT dataset offered by Ferrag et al. (2022),different authors,JSS,2024,Hybrid,Quantitative,Software organization and properties,Extra-functional properties
+18,GCC dataset,GCC dataset,different authors,JSS,2024,Hybrid,Quantitative,Software creation and management,Software verification and validation
+20,Andromeda: A dataset of Ansible galaxy roles and their evolution,Andromeda: A dataset of Ansible galaxy roles and their evolution,same authors,JSS,2021,Hybrid,Both,Software creation and management,Software post-development issues
+22,UC Irvine machine-learning repository,UC Irvine machine-learning repository,different authors,JSS,2023,Hybrid,Quantitative,Software organization and properties,Extra-functional properties
+23,the datasets we adopt as benchmarks are the ones contributed by Rakha et al. (2017),the datasets we adopt as benchmarks are the ones contributed by Rakha et al. (2017),different authors,JSS,2023,Hybrid,Quantitative,Software creation and management,Software post-development issues
+26,the posts dataset gathered by Wu et al.,the posts dataset gathered by Wu et al.,different authors,JSS,2024,Hybrid,Both,Software creation and management,Collaboration in software development
+28,the dataset provided by Spinellis et al. (2020) which contains a list of 17 252 identified Github enterprise repositories,the dataset provided by Spinellis et al. (2020) which contains a list of 17 252 identified Github enterprise repositories,different authors,JSS,2021,Hybrid,Quantitative,Software creation and management,Software development techniques
+29,"a dataset previously collected (Pontillo et al., 2024a) by analyzing and manually validating test cases from 66 open-source Java projects","a dataset previously collected (Pontillo et al., 2024a) by analyzing and manually validating test cases from 66 open-source Java projects",same authors,JSS,2025,Existing dataset,Both,Software creation and management,Software verification and validation
+30,celebA,celebA,different authors,JSS,2025,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+30,"OOD benchmarks (Koh et al., 2021)","OOD benchmarks (Koh et al., 2021)",different authors,JSS,2025,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+30,waterbirds,waterbirds,different authors,JSS,2025,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+30,WILDS-CAMLYON,WILDS-CAMLYON,different authors,JSS,2025,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+30,WILDS-FMoW,WILDS-FMoW,different authors,JSS,2025,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+30,WILDS-iWildCam,WILDS-iWildCam,different authors,JSS,2025,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+32,programs from the Benchmarks Game,programs from the Benchmarks Game,different authors,JSS,2025,Hybrid,Both,Software organization and properties,Software functional properties
+32,programs from the Mälardalen WCET research group,programs from the Mälardalen WCET research group,different authors,JSS,2025,Hybrid,Both,Software organization and properties,Software functional properties
+38,Qualitas Corpus Evolution Distribution dataset,Qualitas Corpus Evolution Distribution dataset,different authors,JSS,2024,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+39,AndroZoo,AndroZoo large-scale application repository,different authors,JSS,2025,Hybrid,Both,Software notations and tools,Software libraries and repositories
+45,a dataset by Maldonado et al. (2017a),a dataset by Maldonado et al. (2017a),different authors,JSS,2021,Hybrid,Both,Software creation and management,Software post-development issues
+45,the original dataset of Zampetti et al. (2018),the original dataset of Zampetti et al. (2018),different authors,JSS,2021,Hybrid,Both,Software creation and management,Software post-development issues
+46,"the dataset from our previous study (Lambiase et al., 2022b)","the dataset from our previous study (Lambiase et al., 2022b)",same authors,JSS,2024,Hybrid,Both,Software creation and management,Collaboration in software development
+47,the community-wide dataset collected in the work of Ferreira et al. (2021),the community-wide dataset collected in the work of Ferreira et al. (2021),different authors,JSS,2025,Hybrid,Quantitative,Software creation and management,Software verification and validation
+48,OJClone,OJClone,different authors,JSS,2024,Hybrid,Quantitative,Software creation and management,Software post-development issues
+48,POJ-104,Open Judge (OJ) dataset,different authors,JSS,2024,Hybrid,Quantitative,Software creation and management,Software post-development issues
+50,a dataset published by Schneider et al. [18],a dataset published by Schneider et al. [18],same authors,SANER,2024,Hybrid,Both,Software creation and management,Software verification and validation
+53,a publicly available vulnerable dataset [75],a publicly available vulnerable dataset [75],different authors,SANER,2023,Hybrid,Both,Software creation and management,Software post-development issues
+54,CodeSearchNet,CodeSearchNet,different authors,SANER,2025,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+54,CodeXGLUE,CodeXGLUE benchmark,different authors,SANER,2025,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+54,Devign,Devign,different authors,SANER,2025,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+55,"SUTs from recently published papers [37], [38] (Niu 2022)","SUTs from recently published papers [37], [38]",different authors,SANER,2025,Hybrid,Quantitative,Software creation and management,Software verification and validation
+55,"SUTs from recently published papers [37], [38] (Sun 2023)","SUTs from recently published papers [37], [38]",different authors,SANER,2025,Hybrid,Quantitative,Software creation and management,Software verification and validation
+56,the dataset with ground-truths labeled by Yatish et al. [18],the dataset with ground-truths labeled by Yatish et al. [18],different authors,SANER,2023,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+57,REDRAW,REDRAW,same authors,SANER,2022,Hybrid,Both,Software creation and management,Software post-development issues
+58,ML repositories of Gonzalez et al. (2020),Gonzalez et al. [22],different authors,SANER,2023,Hybrid,Both,Software organization and properties,Software system structures
+58,two existing datasets of AI-based systems from GitHub collected by Humbatova et al. [11],two existing datasets of AI-based systems from GitHub collected by Humbatova et al. [11],different authors,SANER,2023,Hybrid,Both,Software organization and properties,Software system structures
+61,the tool developed by Henkel et al. [48] based on mining Dockerfiles of GH projects,the tool developed by Henkel et al. [48] based on mining Dockerfiles of GH projects,different authors,SANER,2022,Hybrid,Quantitative,Software creation and management,Software verification and validation
+62,ANDROR2,ANDROR2,different authors,SANER,2022,Hybrid,Both,Software creation and management,Software verification and validation
+63,the opensource dataset,the opensource dataset,different authors,SANER,2025,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+65,developer-informed oracle dataset,developer-informed oracle dataset,different authors,SANER,2024,Hybrid,Both,Software creation and management,Software verification and validation
+67,CodeSearchNet,CodeSearchNet,different authors,SANER,2023,Hybrid,Quantitative,Software notations and tools,Development frameworks and environments
+69,Lamkanfi et al.’s [23] bug tracking dataset,Lamkanfi et al.’s [23] bug tracking dataset,different authors,SANER,2021,Hybrid,Quantitative,Software creation and management,Software verification and validation
+70,Adult Dataset,Adult Dataset,different authors,SANER,2025,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+70,Bank Marketing,Bank Marketing Dataset,different authors,SANER,2025,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+70,Communities and Crime Dataset,Communities and Crime Dataset,different authors,SANER,2025,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+70,COMPAS Dataset,COMPAS Dataset,different authors,SANER,2025,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+70,German Credit,German Credit Dataset,different authors,SANER,2025,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+71,CodeXGLUE,C2C dataset from CodeXGlue,different authors,SANER,2024,Existing dataset,Quantitative,Software creation and management,Software development techniques
+71,CONCODE,CONCODE,different authors,SANER,2024,Existing dataset,Quantitative,Software creation and management,Software development techniques
+72,the subject systems identified in the work of Muse et al. [4],the subject systems identified in the work of Muse et al. [4],same authors,SANER,2022,Hybrid,Both,Software creation and management,Software post-development issues
+73,an existing dataset [24] of Android malware,an existing dataset [24] of Android malware,different authors,SANER,2021,Hybrid,Both,Software creation and management,Software post-development issues
+76,Defects4J,JIT-Defects4J,different authors,SANER,2024,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+76,FIRA [7],FIRA [7],different authors,SANER,2024,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+76,MCMD,Multi-language Commit Message Dataset (MCMD),different authors,SANER,2024,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+76,"the dataset containing 1,000 samples from Karmakar et al. [26]","the dataset containing 1,000 samples from Karmakar et al. [26]",different authors,SANER,2024,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+79,ML repositories of Gonzalez et al. (2020),open-source machine learning repositories presented in [26],different authors,FSE,2022,Hybrid,Both,Software creation and management,Software post-development issues
+81,CodeSearchNet,CodeSearchNet (Python) training set,different authors,FSE,2023,Existing dataset,Quantitative,Software creation and management,Software development techniques
+81,HumanEval,HumanEval,different authors,FSE,2023,Existing dataset,Quantitative,Software creation and management,Software development techniques
+81,MBPP,MBPP,different authors,FSE,2023,Existing dataset,Quantitative,Software creation and management,Software development techniques
+84,Rico,RICO,different authors,FSE,2021,Hybrid,Both,Software creation and management,Software verification and validation
+87,Big-Vul,BigVul,different authors,FSE,2022,Hybrid,Quantitative,Software creation and management,Software verification and validation
+87,Devign,Devign,different authors,FSE,2022,Hybrid,Quantitative,Software creation and management,Software verification and validation
+87,PatchDB,PatchDB,different authors,FSE,2022,Hybrid,Quantitative,Software creation and management,Software verification and validation
+87,ReVeal,ReVeal,different authors,FSE,2022,Hybrid,Quantitative,Software creation and management,Software verification and validation
+87,SARD,SARD,different authors,FSE,2022,Hybrid,Quantitative,Software creation and management,Software verification and validation
+87,Xen,Xen,different authors,FSE,2022,Hybrid,Quantitative,Software creation and management,Software verification and validation
+91,Alibaba Cloud dataset,Alibaba Cloud dataset,different authors,FSE,2022,Hybrid,Both,Software creation and management,Software post-development issues
+91,Backblaze hard drive stats,BackBlaze dataset,different authors,FSE,2022,Hybrid,Both,Software creation and management,Software post-development issues
+92,CodeTransOcean,CodeTransOcean,different authors,FSE,2025,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+92,CodeXGLUE,CodeXGLUE,different authors,FSE,2025,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+92,ComplexCodeEval,ComplexCodeEval,different authors,FSE,2025,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+95,Ferreira et al. [2022]’s dataset of locked GitHub issues,Ferreira et al. [2022]’s dataset of locked GitHub issues,different authors,FSE,2025,Hybrid,Both,Software creation and management,Collaboration in software development
+99,ATLAS,ATLAS dataset,different authors,FSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+99,TCTracer,TCTracer,different authors,FSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+103,ATLAS,the dataset known as Data_old,different authors,FSE,2025,Hybrid,Quantitative,Software creation and management,Software verification and validation
+103,Defects4J,Defects4J,different authors,FSE,2025,Hybrid,Quantitative,Software creation and management,Software verification and validation
+103,Methods2Test dataset,Methods2Test dataset,different authors,FSE,2025,Hybrid,Quantitative,Software creation and management,Software verification and validation
+103,the dataset proposed by Hu et al. [25],the dataset proposed by Hu et al. [25],different authors,FSE,2025,Hybrid,Quantitative,Software creation and management,Software verification and validation
+105,[78]’s replication package,[78]’s replication package,different authors,EMSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+105,BugsInPy,BUGSINPY,different authors,EMSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+107,Türker et al.’s dataset,Türker et al.’s dataset,different authors,EMSE,2025,Hybrid,Both,Software organization and properties,Software system structures
+108,Murphy et al.’s (2020) dataset,Murphy et al.’s (2020) dataset,different authors,EMSE,2025,Hybrid,Both,Software creation and management,Software verification and validation
+113,the dataset published by Habchi et al. [18],the dataset published by Habchi et al. [18],different authors,EMSE,2022,Hybrid,Both,Software organization and properties,Software functional properties
+114,"4, 500 randomly sampled and valid video configurations for MOTIV","4, 500 randomly sampled and valid video configurations for MOTIV",same authors,EMSE,2021,Existing dataset,Quantitative,Software creation and management,Software development techniques
+114,"90, 210 configurations from JHipster in its version 4.8.2.","90, 210 configurations from JHipster in its version 4.8.2.",different authors,EMSE,2021,Existing dataset,Quantitative,Software creation and management,Software development techniques
+114,"Previous work on both case studies [86, 44,70]","Previous work on both case studies [86, 44,70]",different authors,EMSE,2021,Existing dataset,Quantitative,Software creation and management,Software development techniques
+115,Alloy4Fun benchmark,Alloy4Fun benchmark,different authors,EMSE,2025,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+115,ARepair benchmark,ARepair benchmark,different authors,EMSE,2025,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+116,"previous research on traceability (Zogaan et al., 2017)","previous research on traceability (Zogaan et al., 2017)",different authors,EMSE,2022,Hybrid,Both,Software creation and management,Software development techniques
+117,NFBugs dataset,NFBugs dataset,different authors,EMSE,2021,Hybrid,Both,Software creation and management,Software verification and validation
+118,BGL data,BGL data,different authors,EMSE,2023,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+118,HDFS,HDFS data,different authors,EMSE,2023,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+118,three public log parsing datasets,three public log parsing datasets,different authors,EMSE,2023,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+118,ThunderBird data,ThunderBird data,different authors,EMSE,2023,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+119,the original dataset of Chen et al. (2023) comprising 17 circuits,the original dataset of Chen et al. (2023) comprising 17 circuits,different authors,EMSE,2024,Hybrid,Quantitative,Software creation and management,Software post-development issues
+122,CoderEval,CoderEval,different authors,EMSE,2025,Hybrid,Both,Software creation and management,Software verification and validation
+122,their shared dataset,their shared dataset,different authors,EMSE,2025,Hybrid,Both,Software creation and management,Software verification and validation
+123,the dataset introduced by Eng and Hindle (2021),the dataset introduced by Eng and Hindle (2021),different authors,EMSE,2024,Hybrid,Both,Software creation and management,Software post-development issues
+126,ApacheJIT,ApacheJIT,different authors,EMSE,2024,Hybrid,Quantitative,Software creation and management,Software verification and validation
+126,One of the most common JIT defect prediction datasets was shared by McIntosh et al. [28],One of the most common JIT defect prediction datasets was shared by McIntosh et al. [28],different authors,EMSE,2024,Hybrid,Quantitative,Software creation and management,Software verification and validation
+128,Maldonado-62k dataset,Maldonado-62k dataset,different authors,EMSE,2024,Hybrid,Quantitative,Software creation and management,Software post-development issues
+128,OBrien dataset,OBrien dataset,different authors,EMSE,2024,Hybrid,Quantitative,Software creation and management,Software post-development issues
+128,"revised version by (Yu et al., 2022)","revised version by (Yu et al., 2022)",different authors,EMSE,2024,Hybrid,Quantitative,Software creation and management,Software post-development issues
+129,carefully selected benchmark of faulty models from the existing literature (Kim et al. 2023),carefully selected benchmark of faulty models from the existing literature (Kim et al. 2023),different authors,EMSE,2025,Existing dataset,Both,Software creation and management,Software verification and validation
+129,DeepCrime's mutants dataset,DeepCrime's mutants dataset,same authors,EMSE,2025,Existing dataset,Both,Software creation and management,Software verification and validation
+129,the dataset curated by Jahangirova et al. (2024),the dataset curated by Jahangirova et al. (2024),different authors,EMSE,2025,Existing dataset,Both,Software creation and management,Software verification and validation
+133,an existing dataset curated by Hassan and Rahman (2022),an existing dataset curated by Hassan and Rahman (2022),different authors,EMSE,2024,Hybrid,Both,Software creation and management,Software verification and validation
+136,AndroZoo,AndroZoOpen,different authors,EMSE,2024,Hybrid,Quantitative,Software organization and properties,Extra-functional properties
+138,RepoReapers,dataset of engineered projects,different authors,EMSE,2025,Hybrid,Quantitative,Software creation and management,Collaboration in software development
+138,the same 75 Java projects that were analyzed by Bao et al. [3],the same 75 Java projects that were analyzed by Bao et al. [3],different authors,EMSE,2025,Hybrid,Quantitative,Software creation and management,Collaboration in software development
+141,MQT Bench,MQT Bench,different authors,EMSE,2025,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+142,DASWOW,DASWOW,same authors,EMSE,2023,Hybrid,Both,Software creation and management,Software post-development issues
+143,ICST dataset,ICST dataset,different authors,EMSE,2023,Hybrid,Quantitative,Software organization and properties,Software functional properties
+143,OWASP Benchmark,OWASP Benchmark,different authors,EMSE,2023,Hybrid,Quantitative,Software organization and properties,Software functional properties
+143,SV-COMP dataset,SV-COMP dataset,different authors,EMSE,2023,Hybrid,Quantitative,Software organization and properties,Software functional properties
+144,of our original method on the original data,of our original method on the original data,different authors,EMSE,2023,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+144,the original data is provided by the authors,the original data is provided by the authors,different authors,EMSE,2023,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+144,"we borrow data from the elasticsearch project, published in the context of examining defects in [24]","we borrow data from the elasticsearch project, published in the context of examining defects in [24]",different authors,EMSE,2023,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+148,CmtGendata,CmtGendata,different authors,EMSE,2022,Hybrid,Quantitative,Software creation and management,Software post-development issues
+148,CoDiSumdata,CoDiSumdata,different authors,EMSE,2022,Hybrid,Quantitative,Software creation and management,Software post-development issues
+148,NNGendata,NNGendata,different authors,EMSE,2022,Hybrid,Quantitative,Software creation and management,Software post-development issues
+151,"another benchmark dataset (e.g., SWT, ZXing, AspectJ)","another benchmark dataset (e.g., SWT, ZXing, AspectJ)",different authors,EMSE,2021,Existing dataset,Both,Software creation and management,Software verification and validation
+151,publicly available benchmark dataset,publicly available benchmark dataset,same authors,EMSE,2021,Existing dataset,Both,Software creation and management,Software verification and validation
+154,Defects4ML,Defects4ML,different authors,EMSE,2025,Hybrid,Both,Software creation and management,Software verification and validation
+156,Codeflaws,Codeflaws,different authors,EMSE,2021,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+156,CoREBench,CoREBench,different authors,EMSE,2021,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+156,IntroClass,IntroClass,different authors,EMSE,2021,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+156,Software-artifact Infrastructure Repository (SIR),Software-artifact Infrastructure Repository (SIR),different authors,EMSE,2021,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+157,the data set firstly proposed in Zhou et al. (2012),the data set firstly proposed in Zhou et al. (2012),different authors,EMSE,2022,Hybrid,Quantitative,Software creation and management,Software verification and validation
+157,"Two subprojects from Eclipse, namely PDE and JDT","Two subprojects from Eclipse, namely PDE and JDT",different authors,EMSE,2022,Hybrid,Quantitative,Software creation and management,Software verification and validation
+159,BugsInPy,BUGSINPY dataset,different authors,EMSE,2023,Hybrid,Quantitative,Software creation and management,Software verification and validation
+159,MANYTYPES4PY dataset,MANYTYPES4PY dataset,different authors,EMSE,2023,Hybrid,Quantitative,Software creation and management,Software verification and validation
+159,nine of the ten projects from our previous work,nine of the ten projects from our previous work,same authors,EMSE,2023,Hybrid,Quantitative,Software creation and management,Software verification and validation
+163,Defects4J,Defects4J dissection,different authors,EMSE,2024,Existing dataset,Both,Software creation and management,Software verification and validation
+163,Vul4J,Vul4J,same authors,EMSE,2024,Existing dataset,Both,Software creation and management,Software verification and validation
+163,‘project KB’ knowledge base,‘project KB’ knowledge base,different authors,EMSE,2024,Existing dataset,Both,Software creation and management,Software verification and validation
+164,DevGPT,DevGPT dataset,different authors,EMSE,2025,Hybrid,Both,Software creation and management,Software verification and validation
+167,test2_ds,test2_ds,same authors,EMSE,2025,Hybrid,Quantitative,Software organization and properties,Extra-functional properties
+171,Android Malware Dataset (AMD),Android Malware Dataset (AMD),different authors,EMSE,2023,Hybrid,Both,Software creation and management,Software post-development issues
+174,HeaderGen micro-benchmark,HeaderGen micro-benchmark,same authors,EMSE,2025,Hybrid,Quantitative,Software organization and properties,Software functional properties
+174,PyCG micro-benchmark,PyCG micro-benchmark,different authors,EMSE,2025,Hybrid,Quantitative,Software organization and properties,Software functional properties
+174,the benchmark used in Jarvis,the benchmark used in Jarvis,different authors,EMSE,2025,Hybrid,Quantitative,Software organization and properties,Software functional properties
+174,TypeEvalPy,TypeEvalPy,same authors,EMSE,2025,Hybrid,Quantitative,Software organization and properties,Software functional properties
+176,the public dataset of Gallaba et al. [25],the public dataset of Gallaba et al. [25],different authors,EMSE,2023,Hybrid,Quantitative,Software creation and management,Collaboration in software development
+177,BigCloneBench,BigCloneBench,different authors,EMSE,2025,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+177,CodeNet,Project CodeNet Dataset,different authors,EMSE,2025,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+177,CodRep1,CodRep1,different authors,EMSE,2025,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+177,Refactory,Refactory,different authors,EMSE,2025,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+177,the dataset from Google Code Jam (GCJ) provided by Yang et al. [45],the dataset from Google Code Jam (GCJ) provided by Yang et al. [45],different authors,EMSE,2025,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+185,"the dataset from our previous study of dependency cycle (Feng and Mo, 2023)","the dataset from our previous study of dependency cycle (Feng and Mo, 2023)",same authors,EMSE,2024,Hybrid,Both,Software creation and management,Software post-development issues
+189,BindingDB,BindingDB,different authors,EMSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+189,Cora,PubMed,different authors,EMSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+189,DrugBank,DrugBank,different authors,EMSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+189,GraphMNIST,GraphMNIST,different authors,EMSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+189,MSRC21,MSRC21,different authors,EMSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+189,Mutagenicity,Mutagenicity,different authors,EMSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+189,NCI1,NCI1,different authors,EMSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+190,a 2.5 gigabyte (GB) database dump mapping CVE IDs to VCCs of GitHub projects originally contributed by Perl et al. (2015),a 2.5 gigabyte (GB) database dump mapping CVE IDs to VCCs of GitHub projects originally contributed by Perl et al. (2015),different authors,EMSE,2023,Hybrid,Quantitative,Software creation and management,Software verification and validation
+190,Big-Vul,Big-Vul,different authors,EMSE,2023,Hybrid,Quantitative,Software creation and management,Software verification and validation
+195,celebA,CelebA,different authors,ICSE,2023,Hybrid,Quantitative,Software creation and management,Software verification and validation
+195,CIFAR-10,Cifar-10,different authors,ICSE,2023,Hybrid,Quantitative,Software creation and management,Software verification and validation
+195,FashionMNIST,FashionMNIST,different authors,ICSE,2023,Hybrid,Quantitative,Software creation and management,Software verification and validation
+195,ImageNet,ImageNet-1K,different authors,ICSE,2023,Hybrid,Quantitative,Software creation and management,Software verification and validation
+195,MNIST,Modified National Institute of Standard and Technology (MNIST),different authors,ICSE,2023,Hybrid,Quantitative,Software creation and management,Software verification and validation
+195,SVHN,Street View House Numbers (SVHN),different authors,ICSE,2023,Hybrid,Quantitative,Software creation and management,Software verification and validation
+198,Big-Vul,MSR,different authors,ICSE,2023,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+198,Devign,Devign,different authors,ICSE,2023,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+200,"Blue Gene/L (BGL), Thunderbird, Liberty, and Spirit","Blue Gene/L (BGL), Thunderbird, Liberty, and Spirit",different authors,ICSE,2024,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+200,HDFS,HDFS,different authors,ICSE,2024,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+202,Smart Contract Sanctuary,Smart Contract Sanctuary,different authors,ICSE,2024,Hybrid,Both,Software creation and management,Software verification and validation
+202,XBlock-ETH,XBlock-ETH,different authors,ICSE,2024,Hybrid,Both,Software creation and management,Software verification and validation
+204,ATLAS,ATLAS,different authors,ICSE,2023,Existing dataset,Quantitative,Software creation and management,Software development techniques
+204,BFP,GM,different authors,ICSE,2023,Existing dataset,Quantitative,Software creation and management,Software development techniques
+204,BigCloneBench,BigCloneBench,different authors,ICSE,2023,Existing dataset,Quantitative,Software creation and management,Software development techniques
+204,CodeSearchNet,AdvTest | CodeSearchNet (Filtered) | CodeTrans | WebQueryTest,different authors,ICSE,2023,Existing dataset,Quantitative,Software creation and management,Software development techniques
+204,CONCODE,CONCODE,different authors,ICSE,2023,Existing dataset,Quantitative,Software creation and management,Software development techniques
+204,CoSQA,CoSQA,different authors,ICSE,2023,Existing dataset,Quantitative,Software creation and management,Software development techniques
+204,Devign,Devign,different authors,ICSE,2023,Existing dataset,Quantitative,Software creation and management,Software development techniques
+204,Kanade et al.,Kanade et al.,different authors,ICSE,2023,Existing dataset,Quantitative,Software creation and management,Software development techniques
+204,POJ-104,POJ-104,different authors,ICSE,2023,Existing dataset,Quantitative,Software creation and management,Software development techniques
+204,PY150,PY150,different authors,ICSE,2023,Existing dataset,Quantitative,Software creation and management,Software development techniques
+208,CodeNet,CodeNet,different authors,ICSE,2024,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+208,Devign,human-verified Devign subset,different authors,ICSE,2024,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+208,TLC,TLC,different authors,ICSE,2024,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+209,MCMD,MCMD,different authors,ICSE,2025,Hybrid,Both,Software creation and management,Software post-development issues
+211,a previously published data set [54] consisting of hundreds of Apache Software Foundation Incubator projects,a previously published data set [54] consisting of hundreds of Apache Software Foundation Incubator projects,same authors,ICSE,2023,Hybrid,Both,Software creation and management,Collaboration in software development
+218,a publicly available dataset of nine Python idiom refactorings [1],a publicly available dataset of nine Python idiom refactorings [1],same authors,ICSE,2023,Hybrid,Both,Software organization and properties,Extra-functional properties
+219,Dockerfile gold set (Henkel et al. 2020),the dataset of unique Dockerfiles presented in the Binnacle paper [15],different authors,ICSE,2024,Hybrid,Both,Software creation and management,Software post-development issues
+220,CodeReview,CodeReview,different authors,ICSE,2024,Hybrid,Both,Software notations and tools,Software maintenance tools
+222,OSSPolice dataset,OSSPolice dataset,different authors,ICSE,2021,Hybrid,Quantitative,Software creation and management,Software post-development issues
+223,CodeSearchNet,CodeSearchNet,different authors,ICSE,2025,Hybrid,Quantitative,Software creation and management,Software development techniques
+223,HumanEval,HumanEval-X,different authors,ICSE,2025,Hybrid,Quantitative,Software creation and management,Software development techniques
+223,MBPP,MBPP,different authors,ICSE,2025,Hybrid,Quantitative,Software creation and management,Software development techniques
+225,CATS,CATS,different authors,ICSE,2025,Hybrid,Both,Software creation and management,Software verification and validation
+225,DaCapo-2006,DaCapo-2006,different authors,ICSE,2025,Hybrid,Both,Software creation and management,Software verification and validation
+225,DroidBench,DroidBench,different authors,ICSE,2025,Hybrid,Both,Software creation and management,Software verification and validation
+225,FossDroid dataset,FossDroid dataset,different authors,ICSE,2025,Hybrid,Both,Software creation and management,Software verification and validation
+225,jQuery,jQuery,different authors,ICSE,2025,Hybrid,Both,Software creation and management,Software verification and validation
+225,PyCG micro-benchmark,PyCG-Micro and PyCG-Macro,different authors,ICSE,2025,Hybrid,Both,Software creation and management,Software verification and validation
+225,Sunspider,Sunspider,different authors,ICSE,2025,Hybrid,Both,Software creation and management,Software verification and validation
+225,Toyota ITC,Toyota ITC,different authors,ICSE,2025,Hybrid,Both,Software creation and management,Software verification and validation
+229,CodeSearchNet,Their refined Java subsection of the CodeSearchNet dataset,different authors,ICSE,2024,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+229,the dataset by Roy et al. [68],the dataset by Roy et al. [68],different authors,ICSE,2024,Existing dataset,Quantitative,Software creation and management,Software post-development issues
+231,a universe of open-source robotics and cyber-physical code [52],a universe of open-source robotics and cyber-physical code [52],same authors,TOSEM,2021,Hybrid,Both,Software notations and tools,General programming languages
+234,CIFAR-10,CIFAR-10,different authors,TOSEM,2022,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+234,FashionMNIST,Fashion-MNIST,different authors,TOSEM,2022,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+234,IMDb,IMDb,different authors,TOSEM,2022,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+234,iWildCam,iWildCam,different authors,TOSEM,2022,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+234,MNIST,MNIST,different authors,TOSEM,2022,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+234,Newsgroups,Newsgroups,different authors,TOSEM,2022,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+234,OOD data with natural distribution shift ... We obtain such datasets (IMDb and Newsgroups) from the baseline work [13] directly.,OOD data with natural distribution shift ... We obtain such datasets (IMDb and Newsgroups) from the baseline work [13] directly.,different authors,TOSEM,2022,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+235,Backblaze hard drive stats,the Backblaze disk stats dataset,different authors,TOSEM,2021,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+235,Google cluster traces,the Google cluster trace dataset,different authors,TOSEM,2021,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+236,Adult Income,"Adult Income dataset [1] (a.k.a., Adult dataset)",different authors,TOSEM,2023,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+236,"Bank Marketing dataset [3] (a.k.a., Bank dataset)","Bank Marketing dataset [3] (a.k.a., Bank dataset)",different authors,TOSEM,2023,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+236,COMPAS Score,"ProPublica Recidivism dataset [4] (a.k.a., Compas dataset)",different authors,TOSEM,2023,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+236,German Credit,"German Credit dataset [6] (a.k.a., German dataset)",different authors,TOSEM,2023,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+236,"Medical Survey 2015 dataset [11] (a.k.a., Mep dataset)","Medical Survey 2015 dataset [11] (a.k.a., Mep dataset)",different authors,TOSEM,2023,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+238,CoNaLa,CoNaLa,different authors,TOSEM,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+238,CONCODE,CONCODE,different authors,TOSEM,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+238,HearthStone,HearthStone,different authors,TOSEM,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+239,IntroClass,a Java translation of the original dataset described in [12],different authors,TOSEM,2025,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+239,Paper [56] reproducibility package,Paper [56] reproducibility package,different authors,TOSEM,2025,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+240,Jira: Lin et al. [30],Apps Reviews: Lin et al. [30],different authors,TOSEM,2022,Existing dataset,Both,Software creation and management,Collaboration in software development
+240,Jira: Ortu et al. [46],Jira: Ortu et al. [46],different authors,TOSEM,2022,Existing dataset,Both,Software creation and management,Collaboration in software development
+240,Stack Overflow: Calefato et al. [5],Stack Overflow: Calefato et al. [5],different authors,TOSEM,2022,Existing dataset,Both,Software creation and management,Collaboration in software development
+240,Stack Overflow: Uddin et al. [63],Stack Overflow: Uddin et al. [63],same authors,TOSEM,2022,Existing dataset,Both,Software creation and management,Collaboration in software development
+241,GitHub Search Tool by Dabic et al. [6],GitHub Search Tool by Dabic et al. [6],different authors,TOSEM,2024,Hybrid,Both,Software creation and management,Software development process management
+242,Brinto et al. [9] dataset,Brinto et al. [9] dataset,different authors,TOSEM,2023,Hybrid,Both,Software creation and management,Software verification and validation
+248,AndroZoo,AndroZoo,different authors,TOSEM,2025,Hybrid,Both,Software creation and management,Software verification and validation
+248,icsme20-Docker-dataset (Lin et al. 2020),the dataset constructed by Lin et al. [45],different authors,TOSEM,2025,Hybrid,Both,Software creation and management,Software verification and validation
+249,CIFAR-10,CIFAR-10,different authors,TOSEM,2022,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+249,IMDb,IMDB reviews,different authors,TOSEM,2022,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+249,MNIST,MNIST,different authors,TOSEM,2022,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+251,Programming languages and code quality dataset (Ray et al. 2014),FSE’s dataset,different authors,TOSEM,2022,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+253,CIFAR-10 and CIFAR-100,CIFAR-10 and CIFAR-100,different authors,TOSEM,2024,Existing dataset,Quantitative,Software notations and tools,Software maintenance tools
+253,FashionMNIST,FashionMNIST,different authors,TOSEM,2024,Existing dataset,Quantitative,Software notations and tools,Software maintenance tools
+253,LSUN,LSUN,different authors,TOSEM,2024,Existing dataset,Quantitative,Software notations and tools,Software maintenance tools
+253,MNIST,MNIST,different authors,TOSEM,2024,Existing dataset,Quantitative,Software notations and tools,Software maintenance tools
+253,SVHN,SVHN,different authors,TOSEM,2024,Existing dataset,Quantitative,Software notations and tools,Software maintenance tools
+254,BoT-IoT,BoT-IoT,different authors,TOSEM,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+254,CIC IoMT 2024,CIC IoMT 2024,different authors,TOSEM,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+254,CIC IoT 2023,CIC IoT 2023,different authors,TOSEM,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+254,EdgeIIoT,EdgeIIoT,different authors,TOSEM,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+254,IoT-23,IoT-23,different authors,TOSEM,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+254,RT-IoT 2022,RT-IoT 2022,different authors,TOSEM,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+254,TON-IoT,TON-IoT,different authors,TOSEM,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+255,Dalpiaz et al. [21],Dalpiaz et al. [21],different authors,TOSEM,2023,Hybrid,Both,Software creation and management,Search-based software engineering
+255,Do et al. [23],Do et al. [23],different authors,TOSEM,2023,Hybrid,Both,Software creation and management,Search-based software engineering
+255,PROMISE [61],PROMISE [61],different authors,TOSEM,2023,Hybrid,Both,Software creation and management,Search-based software engineering
+255,PURE dataset [29],PURE dataset [29],different authors,TOSEM,2023,Hybrid,Both,Software creation and management,Search-based software engineering
+255,Shaukat et al. [69],Shaukat et al. [69],different authors,TOSEM,2023,Hybrid,Both,Software creation and management,Search-based software engineering
+256,APPS,APPS,different authors,TOSEM,2025,Hybrid,Quantitative,Software creation and management,Software development techniques
+256,CodeContests,CodeContests,different authors,TOSEM,2025,Hybrid,Quantitative,Software creation and management,Software development techniques
+256,EvalPlus,EvalPlus,different authors,TOSEM,2025,Hybrid,Quantitative,Software creation and management,Software development techniques
+256,HumanEval,HumanEval,different authors,TOSEM,2025,Hybrid,Quantitative,Software creation and management,Software development techniques
+257,Maldonado-62k dataset,Dataset-M: collected by Maldonado et al.,different authors,TOSEM,2021,Hybrid,Quantitative,Software notations and tools,Software maintenance tools
+259,BigCloneBench,BigCloneBench,different authors,TOSEM,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+259,CodeNet,CodeNet,different authors,TOSEM,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+259,CodeSearchNet,CodeSearchNet,different authors,TOSEM,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+259,CodeXGLUE,CodeXGLUE,different authors,TOSEM,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+259,GitHub Java Corpus,GitHub Java Corpus,different authors,TOSEM,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+260,CodeSearchNet,CSN,different authors,TOSEM,2024,Existing dataset,Both,Software creation and management,Software development techniques
+260,FunCom / FCM (LeClair et al. 2019),FCM,different authors,TOSEM,2024,Existing dataset,Both,Software creation and management,Software development techniques
+260,HDC,HDC,different authors,TOSEM,2024,Existing dataset,Both,Software creation and management,Software development techniques
+260,PCSD,PCSD,different authors,TOSEM,2024,Existing dataset,Both,Software creation and management,Software development techniques
+260,TLC,TLC,different authors,TOSEM,2024,Existing dataset,Both,Software creation and management,Software development techniques
+263,AndroidTimeMachine,AndroidTimeMachine dataset,different authors,TSE,2022,Hybrid,Quantitative,Software notations and tools,Development frameworks and environments
+263,CodeSearchNet,CodeSearchNet Java Dataset,different authors,TSE,2022,Hybrid,Quantitative,Software notations and tools,Development frameworks and environments
+263,fine-tuning dataset,fine-tuning dataset,same authors,TSE,2022,Hybrid,Quantitative,Software notations and tools,Development frameworks and environments
+265,our prior work [20],our prior work [20],same authors,TSE,2023,Hybrid,Both,Software organization and properties,Extra-functional properties
+266,DupPR,DupPR,different authors,TSE,2022,Hybrid,Both,Software creation and management,Collaboration in software development
+268,JulietBench,JulietBench,different authors,TSE,2023,Existing dataset,Both,Software organization and properties,Software functional properties
+268,MASCBench,MASCBench,different authors,TSE,2023,Existing dataset,Both,Software organization and properties,Software functional properties
+268,OWASPBench,OWASPBench,different authors,TSE,2023,Existing dataset,Both,Software organization and properties,Software functional properties
+268,SmallCryptoAPIBench,ApacheCryptoAPIBench,different authors,TSE,2023,Existing dataset,Both,Software organization and properties,Software functional properties
+270,20-MAD Apache dataset,20-MAD Apache dataset,different authors,TSE,2023,Hybrid,Quantitative,Software creation and management,Software post-development issues
+273,Adult Income,Adult Income,different authors,TSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+273,Bank Marketing,Bank Marketing,different authors,TSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+273,COMPAS Score,COMPAS Score,different authors,TSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+273,Default Credit,Default Credit,different authors,TSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+273,German Credit,German Credit,different authors,TSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+273,Heart Health,Heart Health,different authors,TSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+273,Medial Survey 2015 | Medial Survey 2016,Medial Survey 2015 | Medial Survey 2016,different authors,TSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+273,Student Performance,Student Performance,different authors,TSE,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+274,DeepCom [7],DeepCom [7],different authors,TSE,2023,Hybrid,Both,Software creation and management,Software post-development issues
+274,FunCom / FCM (LeClair et al. 2019),the corpus of attendgru,different authors,TSE,2023,Hybrid,Both,Software creation and management,Software post-development issues
+275,the same GitHub-hosted packages used for evaluating Nessie [11],the same GitHub-hosted packages used for evaluating Nessie [11],different authors,TSE,2024,Hybrid,Quantitative,Software creation and management,Software verification and validation
+276,Bugs.jar,Bugs.jar,different authors,TSE,2021,Hybrid,Quantitative,Software creation and management,Software verification and validation
+276,Defects4J,Defects4J,different authors,TSE,2021,Hybrid,Quantitative,Software creation and management,Software verification and validation
+277,Tranco list,Tranco list,different authors,TSE,2023,Hybrid,Quantitative,Software organization and properties,Extra-functional properties
+279,"K-Nearest Neighbors (KNN). It is a machine learning classifier algorithm, which takes in a training data set and a testing data, and then predicts the label for the latter based on the former [19].","K-Nearest Neighbors (KNN). It is a machine learning classifier algorithm, which takes in a training data set and a testing data, and then predicts the label for the latter based on the former [19].",different authors,TSE,2022,Hybrid,Quantitative,Software creation and management,Software verification and validation
+279,"The mutants used for TSQ, SMM, and DNA were sourced from other previous studies [8], [30]","The mutants used for TSQ, SMM, and DNA were sourced from other previous studies [8], [30]",different authors,TSE,2022,Hybrid,Quantitative,Software creation and management,Software verification and validation
+279,"they were sourced from previous MT-related studies [8], [19], [30]","they were sourced from previous MT-related studies [8], [19], [30]",different authors,TSE,2022,Hybrid,Quantitative,Software creation and management,Software verification and validation
+281,the dynamically generated and manually written invariants,the dynamically generated and manually written invariants,different authors,TSE,2021,Hybrid,Quantitative,Software creation and management,Software verification and validation
+284,SOTorrent,SOTorrent,different authors,TSE,2024,Hybrid,Both,Software creation and management,Software development techniques
+284,Zhang et al.’s adaptation dataset,Zhang et al.’s adaptation dataset,same authors,TSE,2024,Hybrid,Both,Software creation and management,Software development techniques
+286,Defects4J,DEFECTS4J,different authors,TSE,2021,Hybrid,Quantitative,Software creation and management,Software verification and validation
+287,Rosa’s dataset,Rosa’s dataset,different authors,TSE,2024,Hybrid,Both,Software creation and management,Software verification and validation
+289,BigCloneBench,BigCloneBench,different authors,TSE,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+289,CodeNet,CodeNet,different authors,TSE,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+289,CodeSearchNet,CodeSearchNet,different authors,TSE,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+289,CodeSyntax,CodeSyntax,different authors,TSE,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+289,CodeXGLUE,CodeXGLUE,different authors,TSE,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+289,CONCODE,CONCODE,different authors,TSE,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+289,CoSQA,CosQA,different authors,TSE,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+289,GitHub Java Corpus,Github Java Corpus,different authors,TSE,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+289,POJ-104,POJ-104,different authors,TSE,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+289,PY150,PY150,different authors,TSE,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+289,the open-source dataset from Troshin et al. [12],the open-source dataset from Troshin et al. [12],different authors,TSE,2025,Existing dataset,Quantitative,Software creation and management,Software development techniques
+297,CommitChronicle,CommitChronicle,different authors,TSE,2024,Hybrid,Both,Software creation and management,Software post-development issues
+297,MCMD,Multiprogramming-language Commit Message Dataset (MCMD),different authors,TSE,2024,Hybrid,Both,Software creation and management,Software post-development issues
+299,the dataset from our prior study [28],the dataset from our prior study [28],different authors,TSE,2023,Hybrid,Both,Software creation and management,Software post-development issues
+301,AEEEM,AEEEM,different authors,TSE,2021,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+301,NASA (Shepperd 2013),NASA,different authors,TSE,2021,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+301,PROMISE (Marian 2010),PROMISE,different authors,TSE,2021,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+301,ReLink,ReLink,different authors,TSE,2021,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+301,SOFTLAB,SOFTLAB,different authors,TSE,2021,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+302,their released dataset [65],their released dataset [65],different authors,TSE,2022,Hybrid,Quantitative,Software organization and properties,Extra-functional properties
+304,HumanEval,HumanEval dataset,different authors,TSE,2024,Hybrid,Both,Software creation and management,Software development techniques
+304,MBPP,MBPP dataset,different authors,TSE,2024,Hybrid,Both,Software creation and management,Software development techniques
+306,KGTorrent database,KGTorrent database,different authors,TSE,2025,Hybrid,Both,Software creation and management,Software verification and validation
+306,The Stack dataset,The Stack dataset,different authors,TSE,2025,Hybrid,Both,Software creation and management,Software verification and validation
+307,"Mahmoudi et al. [14] shared a data set with the results of their analysis for 2,955 opensource GitHub projects","Mahmoudi et al. [14] shared a data set with the results of their analysis for 2,955 opensource GitHub projects",different authors,TSE,2023,Hybrid,Both,Software creation and management,Software post-development issues
+307,"the same 1,070 merge scenarios used in the original publication","the same 1,070 merge scenarios used in the original publication",different authors,TSE,2023,Hybrid,Both,Software creation and management,Software post-development issues
+308,BFP,BFP dataset,different authors,ASE,2023,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+308,CPatMiner dataset,CPatMiner dataset,different authors,ASE,2023,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+308,Defects4J,Defects4J,different authors,ASE,2023,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+308,Recoder dataset,Recoder dataset,different authors,ASE,2023,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+308,SequenceR dataset,SequenceR dataset,different authors,ASE,2023,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+308,TFix dataset,TFix dataset,different authors,ASE,2023,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+308,VulRepair dataset,VulRepair dataset,different authors,ASE,2023,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+310,PYMIGBENCH,PYMIGBENCH,same authors,ASE,2025,Hybrid,Both,Software creation and management,Software post-development issues
+312,APIBENCH-Q,APIBENCH-Q,different authors,ASE,2025,Hybrid,Quantitative,Software creation and management,Software development techniques
+312,Avatar,Avatar,different authors,ASE,2025,Hybrid,Quantitative,Software creation and management,Software development techniques
+312,CodeXGLUE,CodeXGLUE code summarization benchmark,different authors,ASE,2025,Hybrid,Quantitative,Software creation and management,Software development techniques
+313,ApacheJIT,ApacheJIT,different authors,ASE,2024,Hybrid,Quantitative,Software creation and management,Software post-development issues
+314,CIFAR-10,CIFAR-10,different authors,ASE,2021,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+314,IMDb,IMDb,different authors,ASE,2021,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+314,MNIST,MNIST,different authors,ASE,2021,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+314,TagMyNews,TagMyNews,different authors,ASE,2021,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+314,Yahoo! Answers,Yahoo! Answers,different authors,ASE,2021,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+321,The previous version of our dataset [11],The previous version of our dataset [11],different authors,ASE,2025,Hybrid,Quantitative,Software creation and management,Software verification and validation
+323,Bears,Bears,different authors,ASE,2022,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+323,BFP,BFP,different authors,ASE,2022,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+323,Bugs.jar,Bugs.jar,different authors,ASE,2022,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+323,Defects4J,Defects4j,different authors,ASE,2022,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+323,QuixBugs,QuixBugs,different authors,ASE,2022,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+324,icsme20-Docker-dataset (Lin et al. 2020),icsme20-Docker-dataset,different authors,ASE,2022,Hybrid,Both,Software notations and tools,Development frameworks and environments
+329,APPS,APPS,different authors,ASE,2024,Hybrid,Quantitative,Software creation and management,Software development techniques
+329,CodeSearchNet,CodeSearchNet,different authors,ASE,2024,Hybrid,Quantitative,Software creation and management,Software development techniques
+329,CONCODE,CONCODE,different authors,ASE,2024,Hybrid,Quantitative,Software creation and management,Software development techniques
+330,BigCloneBench,BigCloneBench,different authors,ASE,2023,Existing dataset,Quantitative,Software creation and management,Software development techniques
+330,CodeSearchNet,CodeSearchNet,different authors,ASE,2023,Existing dataset,Quantitative,Software creation and management,Software development techniques
+330,CodeXGLUE,CodeXGLUE benchmark,different authors,ASE,2023,Existing dataset,Quantitative,Software creation and management,Software development techniques
+330,Devign,Devign,different authors,ASE,2023,Existing dataset,Quantitative,Software creation and management,Software development techniques
+330,project-specific code summarization dataset,project-specific code summarization dataset,different authors,ASE,2023,Existing dataset,Quantitative,Software creation and management,Software development techniques
+334,Backstabbers-Knife-Collection,Backstabbers-Knife-Collection,different authors,ASE,2023,Hybrid,Both,Software notations and tools,Software libraries and repositories
+334,Maloss [13],Maloss [13],different authors,ASE,2023,Hybrid,Both,Software notations and tools,Software libraries and repositories
+334,SorceFinder [12],SorceFinder [12],different authors,ASE,2023,Hybrid,Both,Software notations and tools,Software libraries and repositories
+335,Defects4J,Defects4J,different authors,ICSME,2024,Hybrid,Both,Software creation and management,Software verification and validation
+335,Zhou et al.’s dataset,Zhou et al.’s dataset,different authors,ICSME,2024,Hybrid,Both,Software creation and management,Software verification and validation
+337,CIFAR-10,CIFAR-10,different authors,ICSME,2022,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+337,IMDb website data,IMDb,different authors,ICSME,2022,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+337,MNIST,MNIST,different authors,ICSME,2022,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+338,"the project sampling method used by Gruber et al. to identify over 38,000 Maven projects","the project sampling method used by Gruber et al. to identify over 38,000 Maven projects",different authors,ICSME,2024,Hybrid,Both,Software creation and management,Software verification and validation
+339,RepoReapers,the dataset provided by Reaper,different authors,ICSME,2023,Hybrid,Both,Software creation and management,Software post-development issues
+340,RepoReapers,an existing dataset of engineered software projects made available by Munaiah et al. [35],different authors,ICSME,2022,Hybrid,Both,Software creation and management,Software verification and validation
+341,HumanEval,HumanEval,different authors,ICSME,2025,Existing dataset,Both,Software notations and tools,Compilers
+341,McEval,McEval,different authors,ICSME,2025,Existing dataset,Both,Software notations and tools,Compilers
+341,MultiPL-E,MultiPL-E,different authors,ICSME,2025,Existing dataset,Both,Software notations and tools,Compilers
+342,NASA (Gray 2011),NASA,different authors,ICSME,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+342,PROMISE (Caglayan 2012),PROMISE,different authors,ICSME,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+351,Robust,Robust,different authors,ICSME,2023,Hybrid,Both,Software creation and management,Software verification and validation
+357,CodeSearchNet,CSN,different authors,MSR,2025,Hybrid,Both,Software creation and management,Software development techniques
+357,CodeXGLUE,CodeXGLUE (CSN and CT),different authors,MSR,2025,Hybrid,Both,Software creation and management,Software development techniques
+357,HumanEval,HumanEval,different authors,MSR,2025,Hybrid,Both,Software creation and management,Software development techniques
+357,MBPP,MBPP,different authors,MSR,2025,Hybrid,Both,Software creation and management,Software development techniques
+358,A collection of code review data from various Gerrit projects,A collection of code review data from various Gerrit projects,different authors,MSR,2022,Hybrid,Quantitative,Software creation and management,Collaboration in software development
+361,data science-specific datasets [17],data science-specific datasets [17],different authors,MSR,2022,Hybrid,Both,Software creation and management,Software post-development issues
+362,java-large dataset,java-large dataset,different authors,MSR,2021,Hybrid,Quantitative,Software creation and management,Software verification and validation
+362,"java-med-balanced, another dataset made public by Alon et al. [8]","java-med-balanced, another dataset made public by Alon et al. [8]",different authors,MSR,2021,Hybrid,Quantitative,Software creation and management,Software verification and validation
+363,the data collected by Kim et al. [27],the data collected by Kim et al. [27],different authors,MSR,2023,Hybrid,Quantitative,Software creation and management,Software post-development issues
+364,Witt taxonomy of Stack Overflow tags,Witt taxonomy of Stack Overflow tags,different authors,MSR,2022,Hybrid,Both,Software creation and management,Software development techniques
+365,Dockerfile gold set (Henkel et al. 2020),Gold Set dataset provided by Henkel et al. [20],different authors,MSR,2024,Hybrid,Both,Software notations and tools,Software maintenance tools
+365,icsme20-Docker-dataset (Lin et al. 2020),the dataset proposed by Lin et al. [26],different authors,MSR,2024,Hybrid,Both,Software notations and tools,Software maintenance tools
+368,MongoDB | Lrzip | ExaStencils,MongoDB | Lrzip | ExaStencils,different authors,MSR,2022,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+368,Trimesh | x264 (Chen 2021),Trimesh | x264,different authors,MSR,2022,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+368,Trimesh | x264 (Nair 2020),Trimesh | x264,different authors,MSR,2022,Existing dataset,Quantitative,Software organization and properties,Extra-functional properties
+369,a wellknown dataset,a wellknown dataset,different authors,MSR,2025,Hybrid,Both,Software creation and management,Software verification and validation
+369,ANDROR2,AndroR2,different authors,MSR,2025,Hybrid,Both,Software creation and management,Software verification and validation
+369,RegDroid,RegDroid,different authors,MSR,2025,Hybrid,Both,Software creation and management,Software verification and validation
+371,CodeShovel projects (Grund et al. 2021),the GitHub projects used by five different previous studies,different authors,MSR,2022,Hybrid,Quantitative,Software creation and management,Software post-development issues
+371,the GitHub projects used by five different previous studies (Gil 2017),the GitHub projects used by five different previous studies,different authors,MSR,2022,Hybrid,Quantitative,Software creation and management,Software post-development issues
+371,the GitHub projects used by five different previous studies (Palomba 2017),the GitHub projects used by five different previous studies,different authors,MSR,2022,Hybrid,Quantitative,Software creation and management,Software post-development issues
+371,the GitHub projects used by five different previous studies (Ray 2016),the GitHub projects used by five different previous studies,different authors,MSR,2022,Hybrid,Quantitative,Software creation and management,Software post-development issues
+371,the GitHub projects used by five different previous studies (Spadini 2018),the GitHub projects used by five different previous studies,different authors,MSR,2022,Hybrid,Quantitative,Software creation and management,Software post-development issues
+372,DevGPT,DevGPT,different authors,MSR,2024,Hybrid,Quantitative,Software creation and management,Software development techniques
+373,RepoReapers,RepoReapers,different authors,MSR,2021,Hybrid,Quantitative,Software organization and properties,Software system structures
+374,QT,OpenStack,different authors,MSR,2024,Existing dataset,Quantitative,Software creation and management,Software verification and validation
+376,PromptSet,PromptSet,different authors,MSR,2025,Hybrid,Both,Software creation and management,Software post-development issues
+377,Big-Vul,Big-Vul,different authors,MSR,2024,Hybrid,Both,Software creation and management,Software verification and validation
+377,Devign,Devign,different authors,MSR,2024,Hybrid,Both,Software creation and management,Software verification and validation
+378,the original study's data [22],the original study's data [22],different authors,MSR,2023,Hybrid,Quantitative,Software notations and tools,General programming languages
+380,a dataset provided by the LiDetector tool,a dataset provided by the LiDetector tool,different authors,MSR,2024,Hybrid,Quantitative,Software creation and management,Collaboration in software development
+381,ML repositories of Gonzalez et al. (2020),the dataset proposed by Gonzalez et al. [4],different authors,MSR,2024,Hybrid,Both,Software creation and management,Software development process management
+381,the dataset proposed by Gonzalez et al. [4] which was revised by Rzig et al. [9],the dataset proposed by Gonzalez et al. [4] which was revised by Rzig et al. [9],different authors,MSR,2024,Hybrid,Both,Software creation and management,Software development process management
+382,AndroidTimeMachine,AndroidTimeMachine dataset,different authors,MSR,2021,Hybrid,Quantitative,Software creation and management,Software development techniques
+382,CodeSearchNet,CodeSearchNet Java Dataset,different authors,MSR,2021,Hybrid,Quantitative,Software creation and management,Software development techniques
+383,an existing dataset used in a recent empirical study by Khatami and Zaidman [24],an existing dataset used in a recent empirical study by Khatami and Zaidman [24],different authors,MSR,2024,Hybrid,Quantitative,Software organization and properties,Software functional properties
+383,NJR-1,NJR-1,different authors,MSR,2024,Hybrid,Quantitative,Software organization and properties,Software functional properties
+383,XCorpus,XCorpus,different authors,MSR,2024,Hybrid,Quantitative,Software organization and properties,Software functional properties
+387,a publicly-available dataset of 335 Git repositories containing real open-source ROS systems [48],a publicly-available dataset of 335 Git repositories containing real open-source ROS systems [48],same authors,MSR,2021,Hybrid,Both,Software organization and properties,Software system structures
+388,HumanEval,HumanEval dataset,different authors,MSR,2025,Hybrid,Quantitative,Software creation and management,Software development techniques
+391,Jaime et al.’s dataset (version “2024-08-30 & metrics”),Jaime et al.’s dataset (version “2024-08-30 & metrics”),different authors,MSR,2025,Hybrid,Quantitative,Software creation and management,Software post-development issues
